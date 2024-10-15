@@ -1,0 +1,20 @@
+2024/10/13-11:51:14.193 945 Creating DB /home/javiromeroltbl/.config/chromium/Default/IndexedDB/https_mimo.org_0.indexeddb.leveldb since it was missing.
+2024/10/13-11:51:14.217 945 Reusing MANIFEST /home/javiromeroltbl/.config/chromium/Default/IndexedDB/https_mimo.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/13-11:51:15.134 96a Level-0 table #5: started
+2024/10/13-11:51:15.149 96a Level-0 table #5: 1276 bytes OK
+2024/10/13-11:51:15.164 96a Delete type=0 #3
+2024/10/13-11:51:15.164 945 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/13-11:51:53.128 96b Level-0 table #7: started
+2024/10/13-11:51:53.150 96b Level-0 table #7: 8270 bytes OK
+2024/10/13-11:51:53.207 96b Delete type=0 #4
+2024/10/13-11:51:53.210 96b Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/13-11:52:33.421 948 Compacting 1@1 + 1@2 files
+2024/10/13-11:52:33.428 948 Generated table #8@1: 41 keys, 3551 bytes
+2024/10/13-11:52:33.429 948 Compacted 1@1 + 1@2 files => 3551 bytes
+2024/10/13-11:52:33.467 948 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/13-11:52:33.469 948 Delete type=2 #5
+2024/10/13-11:52:33.472 948 Delete type=2 #7
+2024/10/13-11:52:33.642 945 Level-0 table #10: started
+2024/10/13-11:52:33.648 945 Level-0 table #10: 4015 bytes OK
+2024/10/13-11:52:33.666 945 Delete type=0 #6
+2024/10/13-11:52:33.669 945 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
